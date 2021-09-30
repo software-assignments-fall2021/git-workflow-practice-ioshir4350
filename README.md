@@ -7,3 +7,9 @@ Pixels:
 
 SDK:
     In the context of Client-side tracking, SDK’s are simply code snippets you add to your site, similar to the other implementation methods. The difference lies in how you configure these code snippets. For Pixel and Cookie based tracking, you simply paste it, and you’re pretty much done. The rest of the work is done for you. The SDK based approach requires you to handle customer identification and event tracking yourself.
+
+
+
+# # Comment By Farhan Mashud:
+
+I really enjoyed reading this article because it was an easy to read article that went over what client-side tracking is. I was able to follow through and understand what the author is saying. 
